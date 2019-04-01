@@ -1,3 +1,2 @@
 # pypy
-machinelearning
-python notebook
+python & machinelearning notebook
